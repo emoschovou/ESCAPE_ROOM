@@ -1,18 +1,15 @@
 # Κυνήγι θησαυρού στην Αρχαία Ελλάδα
 
-# ΓΕΝΙΚΕΣ ΠΛΗΡΟΦΟΡΙΕΣ
+# Γενικές Πληροφορίες
 Σκοπός αυτού του έργου είναι η παιγνιώδης επανάληψη γνώσεων της Ελληνικής Μυθολογίας και Αρχαίας Ελληνικής Ιστορίας. Πρόκειται για ένα διαδραστικό "δωμάτιο διαφυγής" όπου οι μαθητές προχωρούν σε μια σειρά από επίπεδα απαντώντας σε ερωτήσεις ή ανακαλύπτοντας στοιχεία μέσω της επίλυσης παιγνιωδών προκλήσεων.
 
-Το δωμάτιο διαφυγής είναι φτιαγμένο σε google forms και μπορεί να το βρει κανείς στον σύνδεσμο https://forms.gle/tiazT2xd9o32V4ZVA.
+Το δωμάτιο διαφυγής είναι φτιαγμένο σε google forms και μπορεί να το βρει κανείς στον σύνδεσμο https://forms.gle/tiazT2xd9o32V4ZVA, ενώ μπορεί να κάνει αντίγραφο για προσαρμογή χρησιμοποιοωντας τον σύνδεσμο https://docs.google.com/forms/d/1-VTkowIhQmB_p1D8RfXrKmHtdawsITkj0ym_PWeJhjU/copy
 
 Αποτελείται από 7 επίπεδα 
 
 # Επίπεδο 1
 
-
-
-ενώ μπορεί να κάνει αντίγραφο για προσαρμογή χρησιμοποιοωντας τον σύνδεσμο https://docs.google.com/forms/d/1-VTkowIhQmB_p1D8RfXrKmHtdawsITkj0ym_PWeJhjU/copy
-
+![images](images/01.png)
 
 
 The aim of this project is to develop a system that monitors the temperature and energy consumption of the air-conditioning units in hotel rooms and 
