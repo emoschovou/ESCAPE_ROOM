@@ -9,15 +9,36 @@
 
 # Επίπεδο 1
 
-![images](images/01.png)
+![επίπεδο1](images/01.png)
 
+# Επίπεδο 2
 
-The aim of this project is to develop a system that monitors the temperature and energy consumption of the air-conditioning units in hotel rooms and 
-rewards guests for their conservation efforts. The system utilizes a combination of sensors including IR temperature and I2C temperature sensors to 
-monitor the temperature of the rooms. The IR temperature sensor is used to measure the temperature of the air being blown out of the air-conditioning 
-unit to determine its energy consumption. The water consumption is measured using a clear turbine flow sensor and DS18B20 temperature sensor, which are 
-installed in the water supply line to the room. All sensor data is stored in a database, and guests can earn points based on their conservation efforts, 
-which can be redeemed for eco-friendly rewards.
+![επίπεδο2](images/02.png)
+
+# Επίπεδο 3
+
+![επίπεδο3](images/03.png)
+
+# Επίπεδο 4
+
+![επίπεδο4](images/04.png)
+
+# Επίπεδο 5
+
+![επίπεδο5](images/05.png)
+
+# Επίπεδο 6
+
+![επίπεδο6](images/06.png)
+
+# Επίπεδο 7
+
+![επίπεδο7](images/07.png)
+
+# Επίπεδο 8
+
+![επίπεδο8](images/08.png)
+
 
 ![sensors](photos/photo1.jpg)
 
